@@ -38,6 +38,7 @@ public class MainController {
     /***
      * 描述：
      *      默认用户 name="Steve" password="gaussic"
+     *      如果需要登录到管理员界面，请直接用管理员账号进行登录，账号和密码皆为：admin
      *
      * @param modelMap
      * @return
